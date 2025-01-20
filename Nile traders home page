@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+  <meta charset="UTF-8">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>Nile Traders</title>
+
+  <link rel="stylesheet" href="styles.css">
+
+</head>
+
+<body>
+
+  <!-- Header Section -->
+
+  <header class="header">
+
+    <div class="top-bar">
+
+      <div class="contact-info">Contact us: info@niletraders.com</div>
+
+      <div class="social-icons">
+
+        <a href="#">Telegram</a>
+
+        <a href="#">Instagram</a>
+
+        <a href="#">YouTube</a>
+
+      </div>
+
+    </div>
+
+    <div class="main-header">
+
+      <div class="logo">Nile Traders</div>
+
+      <nav class="navigation">
+
+        <a href="#">About Us</a>
+
+        <a href="#">How It Works</a>
+
+        <a href="#">Pricing</a>
+
+        <a href="#">Testimonials</a>
+
+        <a href="#">Contact</a>
+
+        <a href="#">Log In</a>
+
+      </nav>
+
+      <div class="cta-buttons">
+
+        <button class="primary-btn">Join Now</button>
+
+        <button class="secondary-btn">Learn More</button>
+
+      </div>
+
+    </div>
+
+  </header>
+
+
+  <!-- Hero Section -->
+
+  <section class="hero">
+
+    <div class="hero-text">
+
+      <h1>Empower Your Financial Journey with Nile Traders</h1>
+
+      <p>Join the premier trading group for African Americans, where you’ll gain expert guidance, daily signals, and access to a community committed to building wealth.</p>
+
+      <button class="cta-btn">Start Trading Today</button>
+
+    </div>
+
+    <div class="hero-image">
+
+      <!-- Replace with appropriate image -->
+
+      <img src="hero-image-placeholder.png" alt="Dynamic Afrocentric Trading Visual">
+
+    </div>
+
+  </section>
+
+
+  <!-- About Section -->
+
+  <section class="about">
+
+    <div class="about-text">
+
+      <h2>Why Nile Traders?</h2>
+
+      <p>Our mission is to empower African Americans in trading by providing:</p>
+
+      <ul>
+
+        <li>Daily trading signals</li>
+
+        <li>Keep 100% of profits</li>
+
+        <li>Offshore broker access</li>
+
+      </ul>
+
+    </div>
+
+    <div class="about-image">
+
+      <img src="about-image-placeholder.png" alt="Diverse Traders">
+
+    </div>
+
+  </section>
+
+
+  <!-- Footer -->
+
+  <footer>
+
+    <div class="footer-content">
+
+      <p>© 2025 Nile Traders. All Rights Reserved.</p>
+
+      <div class="social-links">
+
+        <a href="#">Telegram</a>
+
+        <a href="#">Instagram</a>
+
+        <a href="#">YouTube</a>
+
+      </div>
+
+    </div>
+
+  </footer>
+
+</body>
+
+</html>
